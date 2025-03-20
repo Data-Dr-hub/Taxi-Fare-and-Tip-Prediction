@@ -73,7 +73,7 @@ A final email from Luana includes my specific assignment: to conduct an A/B test
 
 Our A/B test result aims to find ways to generate more revenue for taxi cab drivers.
 
-**Note:** For the purpose of this exercise, it is assumed that the sample data comes from an experiment in which customers are randomly selected and divided into two groups: 
+**Note:** For the purpose of this project, it is assumed that the sample data comes from an experiment in which customers are randomly selected and divided into two groups: 
 
 1) customers who are required to pay with credit card, 
 2) customers who are required to pay with cash. 
@@ -89,4 +89,16 @@ So,
 * What business recommendations can be propose based on the results?
   
 Refer to [AB Testing Notebook](AB_Testing.ipynb) for detailed analysis and results.
+
+
+# PHASE 3. Regression Analysis
+The data consulting firm Automatidata has recently hired me as the newest member of their data analytics team. Their newest client, the NYC Taxi and Limousine Commission (New York City TLC), wants the Automatidata team to **build a multiple linear regression model to predict taxi fares** using existing data that was collected over the course of a year. The team is getting closer to completing the project, having completed an initial plan of action, initial Python coding work, EDA, and A/B testing.
+
+The Automatidata team has reviewed the results of the A/B testing. Now it’s time to work on predicting the taxi fare amounts. 
+
+The data team believes that we are ready to build the regression model and update the client New York City TLC about our progress.
+
+Refer here >> [Multiple Linear Regression](Regression%20_Analysis.ipynb)
+
+
 
